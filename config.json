@@ -1,11 +1,10 @@
 {
-  
+
 	"notebook": {
-    
+
 	    "folder": "pandas_in_class",
-    
-	    "file": "pandas_in_class_slides.ipynb"
-  
+	    "file": "slides_pandas.ipynb"
+
 	}
 
 }
